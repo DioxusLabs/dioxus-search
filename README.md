@@ -1,3 +1,7 @@
+# This crate has moved!
+
+https://github.com/DioxusLabs/docsite/tree/main/packages/search
+
 # Dioxus Search
 
 Dioxus search creates a prebaked search index for all your static Dioxus routes.
